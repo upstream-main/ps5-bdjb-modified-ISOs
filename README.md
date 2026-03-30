@@ -336,6 +336,9 @@ Modded Warfare's tutorial about my iso is outdatded, but still useful!
 [CryoNumb](https://github.com/cryonumb/) for [BD-J Elf Loader](https://github.com/cryonumb/elfloader)
 <br />
 
+############# for poops (??!?!?!?!?) (01100011 01101111 01101101 01101001 01101110 01100111 00100000 01110011 00110000 00110000 01101110)
+<br />
+
 [barisyild](https://github.com/barisyild/) for [airpsx](https://github.com/barisyild/airpsx)
 <br />
 
